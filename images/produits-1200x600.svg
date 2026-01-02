@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#3a7bd5" />
+      <stop offset="1" stop-color="#00d2ff" />
+    </linearGradient>
+    <style>
+      .title { font-family: Arial, Helvetica, sans-serif; font-size:48px; fill:rgba(255,255,255,0.95); }
+      .subtitle { font-family: Arial, Helvetica, sans-serif; font-size:20px; fill:rgba(255,255,255,0.9); }
+    </style>
+  </defs>
+  <rect width="1200" height="600" fill="url(#g)" />
+  <g transform="translate(60,220)">
+    <text class="title">Gestion de stock</text>
+    <text class="subtitle" y="56">Produits & catégories — Application pédagogique</text>
+  </g>
+</svg>
